@@ -1,0 +1,2 @@
+# DIGITPAL
+GitHub Pages
