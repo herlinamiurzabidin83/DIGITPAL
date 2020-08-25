@@ -9428,7 +9428,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<b>This section provides notes for student to read and enhance understanding about subject</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://drive.google.com/drive/folders/1vt0O53CHwPVJ9gkN2eAcsZZ2pCTVE6Nj\" data-toolbar=\"-mbrBtnMove\">SISTEM DIGIT</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"page13.html\" data-toolbar=\"-mbrBtnMove\">DIGITAL ELECTRONIC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://drive.google.com/drive/folders/1vt0O53CHwPVJ9gkN2eAcsZZ2pCTVE6Nj\" data-toolbar=\"-mbrBtnMove\">SISTEM DIGIT</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://drive.google.com/drive/folders/1Jk1zbofkg6KRp-p1vy622VqOGIhGw9JG\" data-toolbar=\"-mbrBtnMove\">DIGITAL ELECTRONIC</a>"
               },
               {
                 "image": "@THEME_PATH@/components/_images/background2.jpg",
@@ -9462,7 +9462,7 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "<b>GALLERY </b><br><b>GALLERY</b>",
+                "textTitle": "<b>GALLERY </b><br><b>NOTES</b>",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "<b>Preview gallery for supported notes that can enhance learning through image</b>",
